@@ -95,7 +95,7 @@ body{
     transform: scale(0.98);
 }
 
-.ntm:focus{
+.btn:focus{
     outline: 0;
 }
 
